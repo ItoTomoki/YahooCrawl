@@ -1,3 +1,3 @@
-# Crawling Yahoo Financial Board (Texxtream) data
+# Crawling Yahoo Financial Board (Textream) data
 
-'python scraping2.py'
+`python scraping2.py`
